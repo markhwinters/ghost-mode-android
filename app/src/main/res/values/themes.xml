@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Ghost" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#08090D</item>
+        <item name="android:statusBarColor">#08090D</item>
+        <item name="android:navigationBarColor">#08090D</item>
+    </style>
+    <string name="a11y_desc">GHOST MODE detects when a blocked app opens and shows the GHOST MODE block screen. It does not read screen content.</string>
+</resources>
